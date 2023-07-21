@@ -60,3 +60,4 @@ React is designed with simplicity in mind. You have the React object and the Rea
 
 To make things even easier, you can use JSX, a syntax that looks like HTML but is not natively understood by browsers. JSX makes the code more readable and allows you to write components in a more intuitive way. To use JSX, you need to transpile it with Babel. For learning purposes, we'll do the transpilation in the browser, but for production, you'd typically set up a build process.
 
+Thanks to [Stoyan Stefanov (2022). _React: Up & Running: Building Web Applications_.](https://www.oreilly.com/library/view/react-up/9781492051459/) O’Reilly Media, Inc. for the inspiration and a great explanation
